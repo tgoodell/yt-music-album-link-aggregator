@@ -1,0 +1,7 @@
+# Ignore potential input files
+*
+
+# Whelist program files
+!.gitignore
+!main.py
+!README.md
